@@ -55,15 +55,17 @@ ul.topnav li.right {float: right;}
 	display: flex;
 	flex-flow: column;
 	z-index: 2;
-	width: 70%;
-	height: auto;
+	width: 80%;
+	height: fit-content;
 	text-align: center;
 	border: 1px solid white;
 	border-radius: 5px;
 	margin: auto;
 	padding: 1rem;
-	background-color: rgba(0, 0, 0, 0.3);
+	background-color: rgba(0, 0, 0, 0.2);
 	color: white;
+	 /* Add the blur effect */
+	 backdrop-filter: blur(3px);
 }
 
 .bg-text h1 {
