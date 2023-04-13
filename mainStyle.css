@@ -17,7 +17,6 @@ body {
 	height: calc(100% - 2rem);
 	display: flex;
 	padding: 1rem;
-	
 	background-image: url("./images/beer.png");
 	background-position: center;
 	background-repeat: no-repeat;
