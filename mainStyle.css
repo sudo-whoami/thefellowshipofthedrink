@@ -11,8 +11,9 @@ body, html {
   /* The image used */
   background-image: url("./images/beer.png");
 
-  /* Full height */
+  /* Full height & width */
   height: 100%;
+  width: 100%;
 
   /* Center and scale the image nicely */
   background-position: center;
